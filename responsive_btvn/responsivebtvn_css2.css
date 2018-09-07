@@ -1,0 +1,84 @@
+@media screen and (max-width: 480px){
+	#wraper{
+		width: 100%;
+	}
+	#header{
+		width: 100%;
+		height: 100px;
+	}
+	#brand{
+		width: 98%;
+		height: 20px;
+		background-color: #1CF9F6;
+		text-align: center;
+		float: none;
+		margin-right: 1%;
+		margin-left: 1%;
+		padding-top: 5px;
+	}
+	#global{
+		width: 56%;
+		height: 25px;
+		background-color: #1CF9F6;
+		float: left;
+		text-align: center;
+		padding-top: 10px;
+		margin-left: 1%;
+		margin-right: 1%;
+		margin-top: 5px;
+	}
+	#tool{
+		width: 40%;
+		height: 25px;
+		background-color: #1CF9F6;
+		float: right;
+		margin-left: 1%;
+		text-align: center;
+		padding-top: 10px;
+		margin-top: 5px;
+		margin-right: 1%;
+	}
+	#hero{
+		width: 100%;
+		height: 80px;
+		background-color: #1598E3; 
+		float: none;
+		margin-top: 5px;
+	}
+	#feature{
+		display: none;
+	}
+	#action{
+		width: 98%;
+		height: 30px;
+		background-color: #1CF9F6;
+		float: none;
+		padding-top: 15px;
+		text-align: center;
+		margin-right: 1%;
+		margin-left: 1%
+	}
+	.article1{
+		width: 98%;
+		height: 30px;
+		background-color: #1CF9F6;
+		float: none;
+		padding-top: 30px;
+		text-align: center;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	#ad{
+		width: 100%;
+		height: 40px;
+		background-color: #05026A;
+		float: none;
+		margin-top: 5px;
+	}
+	#ad p{
+		font-size: 25px;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 5px;
+	}
+}
